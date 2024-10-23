@@ -33,7 +33,7 @@ Assurez-vous d'avoir les permissions suivantes dans le fichier `AndroidManifest.
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
-
+```xml
 ![image](https://github.com/user-attachments/assets/b9a78e35-c30d-4a34-80d2-b73f58e3a04d)
 
 
